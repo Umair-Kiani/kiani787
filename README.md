@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kiani787
+- 👋 Hi, I’m Umair Kiani
 - 👀 I’m interested in Web-development
-- 🌱 I’m currently learning React, CSS, Javascript, MUI
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React, Redux, Javascript, MUI, Nodejs
+- 💞️ I’m looking to collaborate on React, Redux
 - 📫 How to reach me ? umairzubairkayani@gmail.com
 
 <!---
